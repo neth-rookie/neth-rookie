@@ -37,7 +37,7 @@ As my interest grew, so did the need for a **data-driven decision tool** to eval
 - yFinance
 - Matplotlib / Plotly (optional)
 - Jupyter Notebook or .py scripts
-- AI assistance (ChatGPT)
+- AI assistance (ChatGPT, perplexity, deep seek)
 
 ---
 
